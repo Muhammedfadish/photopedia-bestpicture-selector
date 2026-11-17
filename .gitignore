@@ -1,0 +1,11 @@
+
+venv/
+__pycache__/
+*.pyd
+*.dll
+*.lib
+*.so
+*.exe
+*.pyc
+*.log
+.DS_Store
